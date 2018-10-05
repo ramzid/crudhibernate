@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libhibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="libhibernate/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="libhibernate/asm.jar"/>
+	<classpathentry kind="lib" path="libhibernate/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="libhibernate/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="libhibernate/commons-collections.jar"/>
+	<classpathentry kind="lib" path="libhibernate/commons-digester.jar"/>
+	<classpathentry kind="lib" path="libhibernate/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="libhibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="libhibernate/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="libhibernate/hibernate-tools.jar"/>
+	<classpathentry kind="lib" path="libhibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="libhibernate/jta.jar"/>
+	<classpathentry kind="lib" path="libhibernate/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="libhibernate/mysql-connector-java-5.0.5.jar"/>
+	<classpathentry kind="lib" path="libhibernate/ojdbc14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
