@@ -10,7 +10,7 @@ import org.hibernate.cfg.*;
 /**
  * Startup Hibernate and provide access to the singleton SessionFactory
  */
-public class Dbsession {
+public class HibernateUtil {
 
   private static SessionFactory sessionFactory;
 
